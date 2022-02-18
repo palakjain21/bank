@@ -1,0 +1,49 @@
+.header{
+    height: 6rem;
+    display: flex;
+    flex-direction: row;
+    background-color:#0a393c;
+}
+.logo{
+    height:"5rem";
+    margin-top:"-0.8rem";
+    text-align:"left";
+    padding:0.5rem;
+    width:20%;
+    color:white;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header__bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    float: right;
+    margin-left: "2.5rem";
+}
+.header__nav{
+    padding: 2rem;
+    text-decoration: 'none' !important;
+}
+.button2{
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 7rem;
+    height: 3rem;
+    margin: 1.5rem;
+    background-color: #67917d;
+    color: white;
+    font-weight: 200;
+}
+
+@media screen and (max-width: 480px) {
+   .header__bar{
+       display:none;
+   }
+   .button2{
+       margin-left: 10rem;
+   }
+  }
