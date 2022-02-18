@@ -45,7 +45,7 @@ const LandingPage = () => {
         <h4>Express FD</h4>
         </div>
         <div className="box">
-            <img  className='boxImage' src="https://www.kindpng.com/picc/m/160-1606721_personal-loan-loan-logo-png-transparent-png.png"/>
+            <img  className='boxImage' src="https://mpng.subpng.com/20190527/qhr/kisspng-business-loan-computer-icons-portable-network-grap-personal-loan-centreline-finance-5cec1d8cc73525.414530311558977932816.jpg" alt="loan"/>
         <h4>Personal Loan</h4>
         </div>
         <div className="box">
