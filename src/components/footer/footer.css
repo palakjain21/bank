@@ -17,12 +17,12 @@
 }
 .footer-content{
     display: flex;
-    padding-bottom: 3rem;
+    padding-bottom: 5rem;
     flex-direction: column;
 }
 .footer-content2{
     width: 30%;
-    height: 15rem;
+    /* height: 15rem; */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -39,11 +39,10 @@
        display:flex;
        flex-direction:column;
        justify-content: space-evenly;
-       padding-bottom: 15rem;
    }
    .footer-content2{
-      margin-left: -12rem;
+      margin-left: 0rem;
       padding-bottom: 2rem;
+      width: 80% !important;
    }
   }
-    

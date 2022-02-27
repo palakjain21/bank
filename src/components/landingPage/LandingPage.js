@@ -34,7 +34,7 @@ const LandingPage = () => {
         </div>
         <div className='rates'>
         
-        <h3><b>Products</b> to meet your life goals</h3>
+        <h3 className='text'><b>Products</b> to meet your life goals</h3>
         <div className='products'>
         <div className="box">
             <img  className='boxImage' src="https://media.istockphoto.com/photos/pink-piggybank-stuffed-with-dollar-bills-picture-id184860418?b=1&k=20&m=184860418&s=170667a&w=0&h=JKIy_cotmric0QiDOKR8TLnr0NtuT2c4vJOtg4wRWBg="/>

@@ -19,7 +19,7 @@ const Footer=()=> {
         </p>
         </div>
         <div className='footer-content2'>
-        <h2>CONTACT US</h2>
+        <h2 className='text2'>CONTACT US</h2>
         <p>
             csjahcnaksjcnaslkcjslkcmsalmasm,nmxzbnjbjhs<br/>
             ccnkscskcnlscmsklcmslcslc,ks,lcsmcsa,Delhi<br/>
