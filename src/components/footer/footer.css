@@ -43,6 +43,9 @@
    .footer-content2{
       margin-left: 0rem;
       padding-bottom: 2rem;
-      width: 80% !important;
+      width: 90% !important;
    }
+   .footer-content{
+    width: 90% !important;
+}
   }
